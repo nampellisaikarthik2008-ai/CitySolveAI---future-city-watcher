@@ -2,6 +2,7 @@
 node_modules/
 dist/
 .pnpm-store/
+*.tsbuildinfo
 
 # Python cache & virtual environments
 __pycache__/
