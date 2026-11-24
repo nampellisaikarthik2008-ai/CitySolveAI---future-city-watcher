@@ -1,0 +1,7 @@
+{
+  "scripts": { "dev": "vite", "build": "tsc -b && vite build" },
+  "dependencies": {
+    "@vitejs/plugin-react": "latest", "vite": "latest", "typescript": "latest", "react": "latest", "react-dom": "latest", "react-router-dom": "latest", "lucide-react": "latest", "recharts": "latest", "leaflet":"latest", "react-leaflet":"latest"
+  },
+  "devDependencies": {"@types/react":"latest","@types/react-dom":"latest","@types/leaflet":"latest"}
+}
